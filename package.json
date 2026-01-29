@@ -1,11 +1,31 @@
 {
   "name": "ai-validator",
   "version": "1.0.0",
-  "description": "Generate Zod and Yup validation schemas from TypeScript types",
+  "description": "AI-powered validation schema generator - Zod/Yup schemas with GPT",
   "main": "dist/index.js",
-  "bin": { "ai-validator": "dist/cli.js" },
-  "scripts": { "build": "tsc" },
-  "keywords": ["zod","yup","validation","typescript","schema","ai","cli"],
+  "bin": {
+    "ai-validator": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "ai",
+    "openai",
+    "gpt",
+    "validation",
+    "zod",
+    "yup",
+    "schema",
+    "form",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "input",
+    "sanitize"
+  ],
   "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0",
