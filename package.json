@@ -1,5 +1,5 @@
 {
-  "name": "ai-validator",
+  "name": "@lxgicstudios/ai-validator",
   "version": "1.0.0",
   "description": "AI-powered validation schema generator - Zod/Yup schemas with GPT",
   "main": "dist/index.js",
