@@ -15,34 +15,41 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
-    "claude",
-    "llm",
-    "openai",
-    "gpt",
-    "validation",
-    "zod",
-    "yup",
-    "schema",
-    "form",
-    "developer-tools",
-    "cli",
     "automation",
-    "typescript",
-    "nodejs",
+    "claude",
+    "cli",
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
+    "form",
+    "generative-ai",
+    "gpt",
     "input",
-    "sanitize"
+    "llm",
+    "llm-optimized",
+    "modern-seo",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
+    "typescript",
+    "validation"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-validator#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-validator.git"
+    "url": "https://github.com/LXGIC-Studios/ai-validator"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-validator/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-validator/issues"
   },
   "funding": {
     "type": "github",
